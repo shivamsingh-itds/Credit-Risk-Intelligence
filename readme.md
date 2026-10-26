@@ -1,9 +1,9 @@
 # 💳 Credit Risk Intelligence
 ### Machine Learning-Based Credit Risk Assessment with Explainable AI
 
-<p align="center">
+
   <strong>Predict Credit Risk • Understand Model Decisions • Support Smarter Lending</strong>
-</p>
+
 
 ---
 
@@ -167,8 +167,7 @@ These metrics help evaluate classification performance and understand the trade-
 ## 👨‍💻 Author
 
 **Shivam Singh**
-
-B.Sc. Information Technology | Aspiring AI/ML Engineer
+AI Engineer
 
 - GitHub: [@shivamsingh-itds](https://github.com/shivamsingh-itds)
 - LinkedIn: [Connect with me](https://www.linkedin.com/)
